@@ -8,11 +8,11 @@ Step by step instruction for setting up AWS Cognito withauthenticator and React 
 
 ## Client Setup
 #### Step 1: Create a new expo project
-exp init react-native-withauthenticator
+exp init react-native-withauthenticator  
 cd react-native-withauthenticator
 #### Step 2: Add and install aws-amplify libries
-npm add --save aws-amplify
-npm add --save aws-amplify-react-native
+npm add --save aws-amplify  
+npm add --save aws-amplify-react-native  
 npm install
 #### Step 3: Add the extracted aws-exports.js file in the project directory
 #### Step 4: In App.js, import new libraries and the config file
