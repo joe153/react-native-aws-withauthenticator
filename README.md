@@ -19,6 +19,7 @@ npm install
 ```import Amplify from 'aws-amplify';
 import { withAuthenticator } from 'aws-amplify-react-native';
 import aws_exports from './aws-exports';
+import Amplify from 'aws-amplify';
 ```
 
 #### Step 5: In App.js, configure Amplify
